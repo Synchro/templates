@@ -3,8 +3,8 @@
   <title>Planning and Payment</title>
   <p><company_short/> will uphold the following dates for the planning of the services:</p>
   <ul>
-      <li><company_short/> performs a <company_svc_short/> on <p_testingduration/>.</li>
-      <li><company_short/> delivers the final report <p_reportdue/>.</li>
+    <li><company_svc_short/>: <p_testingduration/>.</li>
+    <li>Report delivery: <p_reportdue/>.</li>
   </ul>
 
   <!-- snippet --><p>
