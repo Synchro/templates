@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section id="futurework" xml:base="futurework.xml">
   <title>Future Work</title>
+  <!-- This should contain any possible/suggested future work for ROS, not the client,
+  so don't put recommendations in here.
+  For example:
+    "retest using crystal box rather than black box to allow deeper testing"
+    "retest with WAF disabled"
+    "retest after mitigations to found vulnerabilities have been made"
+  -->
 </section>
