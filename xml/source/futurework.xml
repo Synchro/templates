@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<section id="futurework" xml:base="futurework.xml">
+<section id="futurework" xml:base="futurework.xml" break="before">
   <title>Future Work</title>
   <!-- This should contain any possible/suggested future work for ROS, not the client,
   so don't put recommendations in here.
